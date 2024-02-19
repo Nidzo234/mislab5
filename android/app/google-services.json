@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069975284507",
+    "project_id": "mislabs-28e6c",
+    "storage_bucket": "mislabs-28e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069975284507:android:dea26954795ff67adf81be",
+        "android_client_info": {
+          "package_name": "com.example.labaratoriska"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TWdWEJL1ldQgGgKu2qTY-aut-c9B60U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
